@@ -1,9 +1,9 @@
 ---
-title: Projects
+title: Bear and Moose Portal
 ---
 # Introduction and Scope
 
-This site is a portal for all of my work. It's a *work in progress* and is in its infancy.
+This site is a portal for all of my work. It's a *work in progress* and is in its infancy. The domain name, *osoyalce.com*, is a nod to my goal of retiring to Ecuador and my identity as a Canadian.
 
 # Links
 
