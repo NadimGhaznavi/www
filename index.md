@@ -9,6 +9,7 @@ This site is a portal for all of my work. It's a *work in progress* and is in it
 
 * [AI Development with the Snake Game](https://ai.osoyalce.com/pages/ai-snake-game.html)
 * [AI Development with the Flappy Bird Game](https://ai.osoyalce.com/pages/flappy-bird.html)
+* [Blog](https://blog.osoyalce.com/) - My blog
 * [Mining Monero XMR](https://xmr.osoyalce.com/)
 
 
