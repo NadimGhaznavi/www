@@ -9,11 +9,13 @@ This site is a portal for all of my work. It's a *work in progress* and is in it
 
 # Links
 
-* [AI Development with the Snake Game](https://ai.osoyalce.com/pages/ai-snake-game.html) - Getting an AI to play a video game
-* [AI Development with the Flappy Bird Game](https://ai.osoyalce.com/pages/flappy-bird.html)
-* [Blog](https://blog.osoyalce.com/) - My blog
-* [My Monero XMR Mining Farm](https://xmr.osoyalce.com/) - Realtime visualizations
-* [DB4E - The Database 4 Everything](https://db4e.osoyalce.com/) - Backend to the mining farm visualizations
+* [DB4E - Monero XMR Mining Farm Management](https://db4e.osoyalce.com/)
+* [Knowlege Base](https://github.com/NadimGhaznavi/kb/wiki)
+* [Configuration Management](https://cmdb.osoyalce.com/) for my Systems
+
 * [My resume](https://nadim-daniel.ghaznavi.org/)
 
+* [AI Development with the Snake Game](https://ai.osoyalce.com/pages/ai-snake-game.html) - Getting an AI to play a video game
+* [AI Development with the Flappy Bird Game](https://ai.osoyalce.com/pages/flappy-bird.html)
 
+* [My occasional Blog](https://blog.osoyalce.com/) 
