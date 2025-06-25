@@ -9,7 +9,9 @@ This site is a portal for all of my work. It's a *work in progress* and is in it
 
 # Links
 
-* [DB4E - Monero XMR Mining Farm Management](https://db4e.osoyalce.com/)
+* [db4e - Monero XMR Mining Farm Management](https://db4e.osoyalce.com/)
+* [Db4eSystemd](https://db4e-systemd.osoyalce.com) - Lightweight Python module wrapper for systemctl
+
 * [Knowlege Base](https://github.com/NadimGhaznavi/kb/wiki)
 * [Configuration Management](https://cmdb.osoyalce.com/) for my Systems
 
