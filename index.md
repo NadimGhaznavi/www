@@ -9,19 +9,20 @@ This site is a portal for all of my work. It is a *work in progress* and is in i
 
 # Links
 
-* [Me on GitHub](https://github.com/NadimGhaznavi)
-  * [db4e - Monero XMR Mining Farm Management](https://db4e.osoyalce.com/)
-  * [AI Snake Lab](https://snakelab.osoyalce.com/) - AI Development Sandbox with the Snake Game
-  * [Db4eSystemd](https://db4e-systemd.osoyalce.com) - Lightweight Python module wrapper for systemctl
+## Open Source Projects
 
-* [Blog](https://blog.osoyalce.com/)
+| Website | GitHub | PyPI |
+| --- | --- | --- |
+| [Db4E](https://db4e.osoyalce.com/) | [github.com/NadimGhaznavi/db4e](https://github.com/NadimGhaznavi/db4e) | [pypi.org/project/db4e/](https://pypi.org/project/db4e/) |
+| [AI Snake Lab](https://snakelab.osoyalce.com/) | [github.com/NadimGhaznavi/ai_snake_lab](https://github.com/NadimGhaznavi/ai_snake_lab) | [pypi.org/project/ai_snake_lab/](https://pypi.org/project/ai_snake_lab/) |
 
-* [Knowlege Base](https://github.com/NadimGhaznavi/kb/wiki)
-* [Configuration Management](https://cmdb.osoyalce.com/) for my Systems
+## Misc
 
+* [My Occasional Blog](https://blog.osoyalce.com/)
+* [Personal Knowlege Base](https://github.com/NadimGhaznavi/kb/wiki)
 * [My resume](https://nadim-daniel.ghaznavi.org/)
+
+## Old Projects
 
 * [AI Development with the Snake Game](https://ai.osoyalce.com/pages/ai-snake-game.html) - DEPRECATED
 * [AI Development with the Flappy Bird Game](https://ai.osoyalce.com/pages/flappy-bird.html)
-
-* [My occasional Blog](https://blog.osoyalce.com/) 
