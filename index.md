@@ -13,7 +13,7 @@ This site is a portal for all of my work. It is a *work in progress* and is in i
 | --- | --- | --- |
 | [Db4E](https://db4e.osoyalce.com/) | [github.com/NadimGhaznavi/db4e](https://github.com/NadimGhaznavi/db4e) | [pypi.org/project/db4e/](https://pypi.org/project/db4e/) |
 | [AI Snake Lab](https://snakelab.osoyalce.com/) | [github.com/NadimGhaznavi/ai_snake_lab](https://github.com/NadimGhaznavi/ai_snake_lab) | [pypi.org/project/ai_snake_lab/](https://pypi.org/project/ai_snake_lab/) |
-| [systemCtl](https://systemctl.osoyalce.com/) | [github.com/NadimGhaznavi/systemctl](https://github.com/NadimGhaznavi/systemctl) | [pypi.org/project/systemctl/](https://pypi.org/project/systemctl/) |
+| [SystemCtl](https://systemctl.osoyalce.com/) | [github.com/NadimGhaznavi/systemctl](https://github.com/NadimGhaznavi/systemctl) | [pypi.org/project/systemctl/](https://pypi.org/project/systemctl/) |
 
 # Misc
 
