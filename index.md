@@ -18,6 +18,7 @@ This site is a portal for all of my work. It is a *work in progress* and is in i
 # Misc
 
 * [My Occasional Blog](https://blog.osoyalce.com/)
+* [My Art on Etsy](https://www.etsy.com/shop/Osoyalce)
 * [Personal Knowlege Base](https://github.com/NadimGhaznavi/kb/wiki)
 * [My resume](https://nadim-daniel.ghaznavi.org/)
 * [LinkedIn Profile](https://www.linkedin.com/in/nadimghaznavi/)
