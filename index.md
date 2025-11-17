@@ -22,7 +22,7 @@ This site is a portal for all of my work. It is a *work in progress* and is in i
 * [Personal Knowlege Base](https://github.com/NadimGhaznavi/kb/wiki)
 * [My resume](https://nadim-daniel.ghaznavi.org/)
 * [LinkedIn Profile](https://www.linkedin.com/in/nadimghaznavi/)
-* [GitHub](https://github.com/NadimGhaznavi)
+* [Me on GitHub](https://github.com/NadimGhaznavi)
 
 # Old Projects
 
