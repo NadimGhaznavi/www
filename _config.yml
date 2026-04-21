@@ -1,7 +1,0 @@
-title: Bear & Moose
-description: Bear and Moose Projects
-
-remote_theme: nadimghaznavi/minimax
-
-plugins:
-  - jekyll-remote-theme
