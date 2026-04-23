@@ -1,0 +1,8 @@
+title: Bear & Moose
+description: by Nadim-Daniel Ghaznavi
+
+remote_theme: nadimghaznavi/minimo
+
+plugins:
+  - jekyll-remote-theme
+
