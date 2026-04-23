@@ -21,6 +21,7 @@ This site is a portal for all of my work. It is a *work in progress* and is in i
 
 * [My Occasional Blog](https://blog.osoyalce.com/)
 * [My Art](https://gallery.osoyalce.com/)
+* [Website for my Sister](https://corinna.ghaznavi.org)
 * [My Art on Etsy](https://www.etsy.com/shop/Osoyalce)
 * [My Stamp Collection](https://stamps.osoyalce.com/)
 * [Personal Knowlege Base](https://github.com/NadimGhaznavi/kb/wiki)
