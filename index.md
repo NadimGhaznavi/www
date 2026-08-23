@@ -1,6 +1,8 @@
 ---
 title: Bear and Moose Portal
+layout: default
 ---
+
 # Introduction and Scope
 
 ![Bear and Moose logo](/assets/img/bear_and_moose.png)
