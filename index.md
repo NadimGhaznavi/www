@@ -13,7 +13,8 @@ This site is a portal for all of my work. It is a *work in progress* and is in i
 
 | Website | GitHub | PyPI |
 | --- | --- | --- |
-| [Local LLM - Akbar](https://akbar.osoyalce.com) | [github.com/NadimGhaznavi/akbar](https://github.com/NadimGhaznavi/akbar) | |
+| [Local LLM - Fr3d](https://fr3d.osoyalce.com) | [github.com/NadimGhaznavi/fr3d](https://github.com/NadimGhaznavi/fr3d) | |
+| [Snake Lab Server](https://snakelabserver.osoyalce.com) | [github.com/NadimGhaznavi/snake-lab](https://github.com/NadimGhaznavi/snake-lab) | |
 | [BMCA](https://bmca.osoyalce.com) | [github.com/NadimGhaznavi/bmca](https://github.com/NadimGhaznavi/bmca) | |
 | [AI Hydra](https://ai-hydra.readthedocs.io/en/latest/) | [github.com/NadimGhaznavi/ai_hydra](https://github.com/NadimGhaznavi/ai_hydra) | [pypi.org/project/ai-hydra/](https://pypi.org/project/ai-hydra/) |
 | [Db4E](https://db4e.osoyalce.com/) | [github.com/NadimGhaznavi/db4e](https://github.com/NadimGhaznavi/db4e) | [pypi.org/project/db4e/](https://pypi.org/project/db4e/) |
