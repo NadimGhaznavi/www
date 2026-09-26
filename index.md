@@ -8,22 +8,22 @@ author_profile: true
 
 ![Bear and Moose logo](/assets/img/bear_and_moose.png)
 
-This site is a portal for all of my work. It is a *work in progress* and is in its infancy. The domain name, *osoyalce.com*, is a nod to my goal of retiring to Ecuador and my identity as a Canadian.
+This site is a portal for all of my work. The domain name, *osoyalce.com*, is a nod to my goal of retiring to Ecuador and my identity as a Canadian.
 
 ## Open Source Projects
 
 | Website | GitHub | PyPI |
 | --- | --- | --- |
-| [R3el Media](https://r3el.osoyalce.com) | [github.com/NadimGhaznavi/r3el](https://github.com/NadimGhaznavi/r3el) | |
-| [Ax3l Live](https://snakeweb.osoyalce.com) | [github.com/NadimGhaznavi/snake-web-code](https://github.com/NadimGhaznavi/snake-web-code) | |
-| [Local LLM - Ax3l](https://ax3l.osoyalce.com) | [github.com/NadimGhaznavi/ax3l](https://github.com/NadimGhaznavi/ax3l) | |
-| [Snake Lab Server](https://snakelabserver.osoyalce.com) | [github.com/NadimGhaznavi/snake-lab](https://github.com/NadimGhaznavi/snake-lab) | |
-| [BMCA](https://bmca.osoyalce.com) | [github.com/NadimGhaznavi/bmca](https://github.com/NadimGhaznavi/bmca) | |
-| [AI Hydra](https://ai-hydra.readthedocs.io/en/latest/) | [github.com/NadimGhaznavi/ai_hydra](https://github.com/NadimGhaznavi/ai_hydra) | [pypi.org/project/ai-hydra/](https://pypi.org/project/ai-hydra/) |
-| [Db4E](https://db4e.osoyalce.com/) | [github.com/NadimGhaznavi/db4e](https://github.com/NadimGhaznavi/db4e) | [pypi.org/project/db4e/](https://pypi.org/project/db4e/) |
-| [AI Snake Lab](https://snakelab.osoyalce.com/) | [github.com/NadimGhaznavi/ai_snake_lab](https://github.com/NadimGhaznavi/ai_snake_lab) | [pypi.org/project/ai_snake_lab/](https://pypi.org/project/ai_snake_lab/) |
-| [SystemCtl](https://systemctl.osoyalce.com/) | [github.com/NadimGhaznavi/systemctl](https://github.com/NadimGhaznavi/systemctl) | [pypi.org/project/systemctl/](https://pypi.org/project/systemctl/) |
-| [Delphi POC](https://delphi.osoyalce.com/) | [github.com/NadimGhaznavi/delphi](https://github.com/NadimGhaznavi/systemctl) | |
+| [R3el](https://r3el.osoyalce.com) | [r3el repo](https://github.com/NadimGhaznavi/r3el) | |
+| [Ax3l Live](https://snakeweb.osoyalce.com) | [snake-web-code repo](https://github.com/NadimGhaznavi/snake-web-code) | |
+| [Local LLM - Ax3l](https://ax3l.osoyalce.com) | [ax3l repp](https://github.com/NadimGhaznavi/ax3l) | |
+| [Snake Lab Server](https://snakelabserver.osoyalce.com) | [snake-lab repo](https://github.com/NadimGhaznavi/snake-lab) | |
+| [BMCA](https://bmca.osoyalce.com) | [bmca repo](https://github.com/NadimGhaznavi/bmca) | |
+| [AI Hydra](https://ai-hydra.readthedocs.io/en/latest/) | [ai_hydra repo](https://github.com/NadimGhaznavi/ai_hydra) | [ai-hydra on PyPI](https://pypi.org/project/ai-hydra/) |
+| [Db4E](https://db4e.osoyalce.com/) | [db4e repo](https://github.com/NadimGhaznavi/db4e) | [db4e on PyPI](https://pypi.org/project/db4e/) |
+| [AI Snake Lab](https://snakelab.osoyalce.com/) | [ai_snake_lab repo](https://github.com/NadimGhaznavi/ai_snake_lab) | [ai_snake_lab on PyPI](https://pypi.org/project/ai_snake_lab/) |
+| [SystemCtl](https://systemctl.osoyalce.com/) | [systemctl repo](https://github.com/NadimGhaznavi/systemctl) | [systemctl on PyPI](https://pypi.org/project/systemctl/) |
+| [Delphi POC](https://delphi.osoyalce.com/) | [delphi repo](https://github.com/NadimGhaznavi/systemctl) | |
 
 ## Misc
 
