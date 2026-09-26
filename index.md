@@ -4,8 +4,6 @@ layout: single
 author_profile: true
 ---
 
-## Introduction and Scope
-
 ![Bear and Moose logo](/assets/img/bear_and_moose.png)
 
 This site is a portal for all of my work. The domain name, *osoyalce.com*, is a nod to my goal of retiring to Ecuador and my identity as a Canadian.
