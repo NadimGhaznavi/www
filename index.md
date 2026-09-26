@@ -23,7 +23,7 @@ This site is a portal for all of my work. The domain name, *osoyalce.com*, is a 
 | [SystemCtl](https://systemctl.osoyalce.com/) | [systemctl repo](https://github.com/NadimGhaznavi/systemctl) | [systemctl on PyPI](https://pypi.org/project/systemctl/) |
 | [Delphi POC](https://delphi.osoyalce.com/) | [delphi repo](https://github.com/NadimGhaznavi/systemctl) | |
 
-## Misc
+## Miscellaneous
 
 * [My Occasional Blog](https://blog.osoyalce.com/)
 * [My Art](https://gallery.osoyalce.com/)
