@@ -1,15 +1,16 @@
 ---
 title: Bear and Moose Portal
-layout: default
+layout: single
+author_profile: true
 ---
 
-# Introduction and Scope
+## Introduction and Scope
 
 ![Bear and Moose logo](/assets/img/bear_and_moose.png)
 
 This site is a portal for all of my work. It is a *work in progress* and is in its infancy. The domain name, *osoyalce.com*, is a nod to my goal of retiring to Ecuador and my identity as a Canadian.
 
-# Open Source Projects
+## Open Source Projects
 
 | Website | GitHub | PyPI |
 | --- | --- | --- |
@@ -24,7 +25,7 @@ This site is a portal for all of my work. It is a *work in progress* and is in i
 | [SystemCtl](https://systemctl.osoyalce.com/) | [github.com/NadimGhaznavi/systemctl](https://github.com/NadimGhaznavi/systemctl) | [pypi.org/project/systemctl/](https://pypi.org/project/systemctl/) |
 | [Delphi POC](https://delphi.osoyalce.com/) | [github.com/NadimGhaznavi/delphi](https://github.com/NadimGhaznavi/systemctl) | |
 
-# Misc
+## Misc
 
 * [My Occasional Blog](https://blog.osoyalce.com/)
 * [My Art](https://gallery.osoyalce.com/)
@@ -36,7 +37,7 @@ This site is a portal for all of my work. It is a *work in progress* and is in i
 * [LinkedIn Profile](https://www.linkedin.com/in/nadimghaznavi/)
 * [Me on GitHub](https://github.com/NadimGhaznavi)
 
-# Old Projects
+## Old Projects
 
 * [AI Development with the Snake Game](https://ai.osoyalce.com/pages/ai-snake-game.html)
 * [AI Development with the Flappy Bird Game](https://ai.osoyalce.com/pages/flappy-bird.html)

@@ -1,8 +1,30 @@
 title: Bear & Moose
 description: By Nadim-Daniel Ghaznavi
+locale: en-US
+url: "https://www.osoyalce.com"
+baseurl: ""
+logo: "/assets/img/bear_and_moose.png"
 
-remote_theme: nadimghaznavi/minimax
+remote_theme: "NadimGhaznavi/minimal-mistakes"
+minimal_mistakes_skin: dark
+
+author:
+  name: Nadim-Daniel Ghaznavi
+  bio: Creator
+  location: Hamilton, ON
+  email: nghaznavi@gmail.com
+
+atom_feed:
+  hide: true
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+sass:
+  style: compressed
 
 plugins:
   - jekyll-remote-theme
-
+  - jekyll-include-cache
+  - jekyll-sitemap
