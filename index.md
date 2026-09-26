@@ -13,6 +13,7 @@ This site is a portal for all of my work. It is a *work in progress* and is in i
 
 | Website | GitHub | PyPI |
 | --- | --- | --- |
+| [R3el Media](https://r3el.osoyalce.com) | [github.com/NadimGhaznavi/r3el](https://github.com/NadimGhaznavi/r3el) | |
 | [Ax3l Live](https://snakeweb.osoyalce.com) | [github.com/NadimGhaznavi/snake-web-code](https://github.com/NadimGhaznavi/snake-web-code) | |
 | [Local LLM - Ax3l](https://ax3l.osoyalce.com) | [github.com/NadimGhaznavi/ax3l](https://github.com/NadimGhaznavi/ax3l) | |
 | [Snake Lab Server](https://snakelabserver.osoyalce.com) | [github.com/NadimGhaznavi/snake-lab](https://github.com/NadimGhaznavi/snake-lab) | |
