@@ -16,7 +16,7 @@ This site is a portal for all of my work. The domain name, *osoyalce.com*, is a 
 | --- | --- | --- |
 | [R3el](https://r3el.osoyalce.com) | [r3el repo](https://github.com/NadimGhaznavi/r3el) | |
 | [Ax3l Live](https://snakeweb.osoyalce.com) | [snake-web-code repo](https://github.com/NadimGhaznavi/snake-web-code) | |
-| [Local LLM - Ax3l](https://ax3l.osoyalce.com) | [ax3l repp](https://github.com/NadimGhaznavi/ax3l) | |
+| [Ax3l](https://ax3l.osoyalce.com) | [ax3l repp](https://github.com/NadimGhaznavi/ax3l) | |
 | [Snake Lab Server](https://snakelabserver.osoyalce.com) | [snake-lab repo](https://github.com/NadimGhaznavi/snake-lab) | |
 | [BMCA](https://bmca.osoyalce.com) | [bmca repo](https://github.com/NadimGhaznavi/bmca) | |
 | [AI Hydra](https://ai-hydra.readthedocs.io/en/latest/) | [ai_hydra repo](https://github.com/NadimGhaznavi/ai_hydra) | [ai-hydra on PyPI](https://pypi.org/project/ai-hydra/) |
