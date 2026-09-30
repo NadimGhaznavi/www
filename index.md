@@ -39,3 +39,4 @@ This site is a portal for all of my work. The domain name, *osoyalce.com*, is a 
 
 * [AI Development with the Snake Game](https://ai.osoyalce.com/pages/ai-snake-game.html)
 * [AI Development with the Flappy Bird Game](https://ai.osoyalce.com/pages/flappy-bird.html)
+

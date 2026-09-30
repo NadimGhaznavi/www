@@ -8,6 +8,10 @@ logo: "/assets/img/bear_and_moose.png"
 remote_theme: "NadimGhaznavi/minimal-mistakes"
 minimal_mistakes_skin: dark
 
+mycount:
+   endpoint: "https://count.osoyalce.com/count"
+   site: "www"
+
 author:
   name: Nadim-Daniel Ghaznavi
   bio: Creator
