@@ -12,6 +12,7 @@ This site is a portal for all of my work. The domain name, *osoyalce.com*, is a 
 
 | Website | GitHub | PyPI |
 | --- | --- | --- |
+| [BMDynIP](https://bmdynip.osoyalce.com) | [bmdynip repo](https://github.com/NadimGhaznavi/bmdynip) | |
 | [BMGeoIP](https://bmgeoip.osoyalce.com) | [bmgeoip repo](https://github.com/NadimGhaznavi/bmgeoip) | |
 | [R3el](https://r3el.osoyalce.com) | [r3el repo](https://github.com/NadimGhaznavi/r3el) | |
 | [Ax3l Live](https://snakeweb.osoyalce.com) | [snake-web-code repo](https://github.com/NadimGhaznavi/snake-web-code) | |
