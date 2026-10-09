@@ -6,7 +6,6 @@ author_profile: true
 
 ![Bear and Moose logo](/assets/img/bear_and_moose.png)
 
-This site is a portal for all of my work. The domain name, *osoyalce.com*, is a nod to my goal of retiring to Ecuador and my identity as a Canadian.
 
 ## Open Source Projects
 
@@ -109,9 +108,10 @@ This site is a portal for all of my work. The domain name, *osoyalce.com*, is a 
 * [My Art on Etsy](https://www.etsy.com/shop/Osoyalce)
 * [My Stamp Collection](https://stamps.osoyalce.com/)
 * [Personal Knowlege Base](https://github.com/NadimGhaznavi/kb/wiki)
-* [My resume](https://nadim-daniel.ghaznavi.org/)
 * [LinkedIn Profile](https://www.linkedin.com/in/nadimghaznavi/)
 * [Me on GitHub](https://github.com/NadimGhaznavi)
+
+* [My resume](https://nadim-daniel.ghaznavi.org/)
 
 ## Old Projects
 
