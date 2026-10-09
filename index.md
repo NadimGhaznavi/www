@@ -33,8 +33,6 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/r3el">GitHub Repo</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <a class="project-site" href="https://snakeweb.osoyalce.com">
           <img src="{{ '/images/ax3l-live.png' | relative_url }}" alt="Ax3l Live logo" loading="lazy">
@@ -42,6 +40,8 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/snake-web-code">GitHub Repo</a></div>
       </td>
+    </tr>
+    <tr>
       <td>
         <a class="project-site" href="https://ax3l.osoyalce.com">
           <img src="{{ '/images/ax3l.png' | relative_url }}" alt="Ax3l logo" loading="lazy">
@@ -56,8 +56,6 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/snake-lab">GitHub Repo</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <a class="project-site" href="https://bmca.osoyalce.com">
           <img src="{{ '/images/bmca.png' | relative_url }}" alt="BMCA logo" loading="lazy">
@@ -73,6 +71,8 @@ author_profile: true
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/ai_hydra">GitHub Repo</a></div>
         <div><a class="project-source" href="https://pypi.org/project/ai-hydra/">PyPI Package</a></div>
       </td>
+    </tr>
+    <tr>
       <td>
         <a class="project-site" href="https://snakelab.osoyalce.com/">
           <img src="{{ '/images/ai-snake-lab.png' | relative_url }}" alt="AI Snake Lab logo" loading="lazy">
@@ -81,8 +81,6 @@ author_profile: true
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/ai_snake_lab">GitHub Repo</a></div>
         <div><a class="project-source" href="https://pypi.org/project/ai_snake_lab/">PyPI Package</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <a class="project-site" href="https://systemctl.osoyalce.com/">
           <img src="{{ '/images/systemctl.png' | relative_url }}" alt="SystemCtl logo" loading="lazy">
