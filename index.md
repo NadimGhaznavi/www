@@ -10,19 +10,96 @@ This site is a portal for all of my work. The domain name, *osoyalce.com*, is a 
 
 ## Open Source Projects
 
-| Website | GitHub | PyPI |
-| --- | --- | --- |
-| [BMDynIP](https://bmdynip.osoyalce.com) | [bmdynip repo](https://github.com/NadimGhaznavi/bmdynip) | |
-| [BMGeoIP](https://bmgeoip.osoyalce.com) | [bmgeoip repo](https://github.com/NadimGhaznavi/bmgeoip) | |
-| [R3el](https://r3el.osoyalce.com) | [r3el repo](https://github.com/NadimGhaznavi/r3el) | |
-| [Ax3l Live](https://snakeweb.osoyalce.com) | [snake-web-code repo](https://github.com/NadimGhaznavi/snake-web-code) | |
-| [Ax3l](https://ax3l.osoyalce.com) | [ax3l repp](https://github.com/NadimGhaznavi/ax3l) | |
-| [Snake Lab Server](https://snakelabserver.osoyalce.com) | [snake-lab repo](https://github.com/NadimGhaznavi/snake-lab) | |
-| [BMCA](https://bmca.osoyalce.com) | [bmca repo](https://github.com/NadimGhaznavi/bmca) | |
-| [AI Hydra](https://ai-hydra.readthedocs.io/en/latest/) | [ai_hydra repo](https://github.com/NadimGhaznavi/ai_hydra) | [ai-hydra on PyPI](https://pypi.org/project/ai-hydra/) |
-| [AI Snake Lab](https://snakelab.osoyalce.com/) | [ai_snake_lab repo](https://github.com/NadimGhaznavi/ai_snake_lab) | [ai_snake_lab on PyPI](https://pypi.org/project/ai_snake_lab/) |
-| [SystemCtl](https://systemctl.osoyalce.com/) | [systemctl repo](https://github.com/NadimGhaznavi/systemctl) | [systemctl on PyPI](https://pypi.org/project/systemctl/) |
-| [Delphi POC](https://delphi.osoyalce.com/) | [delphi repo](https://github.com/NadimGhaznavi/systemctl) | |
+<table class="projects-table" aria-label="Open source projects">
+  <tbody>
+    <tr>
+      <td>
+        <a class="project-site" href="https://bmdynip.osoyalce.com">
+          <img src="{{ '/images/bmdynip.png' | relative_url }}" alt="BMDynIP logo" loading="lazy">
+          <span>BMDynIP</span>
+        </a>
+        <a class="project-source" href="https://github.com/NadimGhaznavi/bmdynip">GitHub Repo</a>
+      </td>
+      <td>
+        <a class="project-site" href="https://bmgeoip.osoyalce.com">
+          <img src="{{ '/images/bmgeoip.png' | relative_url }}" alt="BMGeoIP logo" loading="lazy">
+          <span>BMGeoIP</span>
+        </a>
+        <a class="project-source" href="https://github.com/NadimGhaznavi/bmgeoip">GitHub Repo</a>
+      </td>
+      <td>
+        <a class="project-site" href="https://r3el.osoyalce.com">
+          <img src="{{ '/images/r3el.png' | relative_url }}" alt="R3el logo" loading="lazy">
+          <span>R3el</span>
+        </a>
+        <a class="project-source" href="https://github.com/NadimGhaznavi/r3el">GitHub Repo</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a class="project-site" href="https://snakeweb.osoyalce.com">
+          <img src="{{ '/images/ax3l-live.png' | relative_url }}" alt="Ax3l Live logo" loading="lazy">
+          <span>Ax3l Live</span>
+        </a>
+        <a class="project-source" href="https://github.com/NadimGhaznavi/snake-web-code">GitHub Repo</a>
+      </td>
+      <td>
+        <a class="project-site" href="https://ax3l.osoyalce.com">
+          <img src="{{ '/images/ax3l.png' | relative_url }}" alt="Ax3l logo" loading="lazy">
+          <span>Ax3l</span>
+        </a>
+        <a class="project-source" href="https://github.com/NadimGhaznavi/ax3l">GitHub Repo</a>
+      </td>
+      <td>
+        <a class="project-site" href="https://snakelabserver.osoyalce.com">
+          <img src="{{ '/images/snake-lab-server.png' | relative_url }}" alt="Snake Lab Server logo" loading="lazy">
+          <span>Snake Lab Server</span>
+        </a>
+        <a class="project-source" href="https://github.com/NadimGhaznavi/snake-lab">GitHub Repo</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a class="project-site" href="https://bmca.osoyalce.com">
+          <img src="{{ '/images/bmca.png' | relative_url }}" alt="BMCA logo" loading="lazy">
+          <span>BMCA</span>
+        </a>
+        <a class="project-source" href="https://github.com/NadimGhaznavi/bmca">GitHub Repo</a>
+      </td>
+      <td>
+        <a class="project-site" href="https://ai-hydra.readthedocs.io/en/latest/">
+          <img src="{{ '/images/ai-hydra.png' | relative_url }}" alt="AI Hydra logo" loading="lazy">
+          <span>AI Hydra</span>
+        </a>
+        <a class="project-source" href="https://pypi.org/project/ai-hydra/">PyPI Package</a>
+      </td>
+      <td>
+        <a class="project-site" href="https://snakelab.osoyalce.com/">
+          <img src="{{ '/images/ai-snake-lab.png' | relative_url }}" alt="AI Snake Lab logo" loading="lazy">
+          <span>AI Snake Lab</span>
+        </a>
+        <a class="project-source" href="https://pypi.org/project/ai_snake_lab/">PyPI Package</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a class="project-site" href="https://systemctl.osoyalce.com/">
+          <img src="{{ '/images/systemctl.png' | relative_url }}" alt="SystemCtl logo" loading="lazy">
+          <span>SystemCtl</span>
+        </a>
+        <a class="project-source" href="https://pypi.org/project/systemctl/">PyPI Package</a>
+      </td>
+      <td>
+        <a class="project-site" href="https://delphi.osoyalce.com/">
+          <img src="{{ '/images/delphi.png' | relative_url }}" alt="Delphi POC logo" loading="lazy">
+          <span>Delphi POC</span>
+        </a>
+        <a class="project-source" href="https://github.com/NadimGhaznavi/systemctl">GitHub Repo</a>
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Miscellaneous
 
