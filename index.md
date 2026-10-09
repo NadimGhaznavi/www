@@ -20,7 +20,6 @@ This site is a portal for all of my work. The domain name, *osoyalce.com*, is a 
 | [Snake Lab Server](https://snakelabserver.osoyalce.com) | [snake-lab repo](https://github.com/NadimGhaznavi/snake-lab) | |
 | [BMCA](https://bmca.osoyalce.com) | [bmca repo](https://github.com/NadimGhaznavi/bmca) | |
 | [AI Hydra](https://ai-hydra.readthedocs.io/en/latest/) | [ai_hydra repo](https://github.com/NadimGhaznavi/ai_hydra) | [ai-hydra on PyPI](https://pypi.org/project/ai-hydra/) |
-| [Db4E](https://db4e.osoyalce.com/) | [db4e repo](https://github.com/NadimGhaznavi/db4e) | [db4e on PyPI](https://pypi.org/project/db4e/) |
 | [AI Snake Lab](https://snakelab.osoyalce.com/) | [ai_snake_lab repo](https://github.com/NadimGhaznavi/ai_snake_lab) | [ai_snake_lab on PyPI](https://pypi.org/project/ai_snake_lab/) |
 | [SystemCtl](https://systemctl.osoyalce.com/) | [systemctl repo](https://github.com/NadimGhaznavi/systemctl) | [systemctl on PyPI](https://pypi.org/project/systemctl/) |
 | [Delphi POC](https://delphi.osoyalce.com/) | [delphi repo](https://github.com/NadimGhaznavi/systemctl) | |
