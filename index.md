@@ -103,19 +103,81 @@ author_profile: true
 
 ## Miscellaneous
 
-* [My Occasional Blog](https://blog.osoyalce.com/)
-* [My Art](https://gallery.osoyalce.com/)
-* [Website for my Sister](https://corinna.ghaznavi.org)
-* [My Art on Etsy](https://www.etsy.com/shop/Osoyalce)
-* [My Stamp Collection](https://stamps.osoyalce.com/)
-* [Personal Knowlege Base](https://github.com/NadimGhaznavi/kb/wiki)
-* [LinkedIn Profile](https://www.linkedin.com/in/nadimghaznavi/)
-* [Me on GitHub](https://github.com/NadimGhaznavi)
-
-* [My resume](https://nadim-daniel.ghaznavi.org/)
-
-## Old Projects
-
-* [AI Development with the Snake Game](https://ai.osoyalce.com/pages/ai-snake-game.html)
-* [AI Development with the Flappy Bird Game](https://ai.osoyalce.com/pages/flappy-bird.html)
+<table class="projects-table" aria-label="Miscellaneous">
+  <tbody>
+    <tr>
+      <td>
+        <a class="project-site" href="https://blog.osoyalce.com/">
+          <img src="{{ '/images/blog.png' | relative_url }}" alt="My Occasional Blog" loading="lazy">
+          <span>My Occasional Blog</span>
+        </a>
+      </td>
+      <td>
+        <a class="project-site" href="https://gallery.osoyalce.com/">
+          <img src="{{ '/images/art.png' | relative_url }}" alt="My Art" loading="lazy">
+          <span>My Art</span>
+        </a>
+      </td>
+      <td>
+        <a class="project-site" href="https://www.etsy.com/shop/Osoyalce">
+          <img src="{{ '/images/etsy.png' | relative_url }}" alt="My Art on Etsy" loading="lazy">
+          <span>My Art on Etsy</span>
+        </a>
+      </td>
+      <td>
+        <a class="project-site" href="https://stamps.osoyalce.com/">
+          <img src="{{ '/images/stamps.png' | relative_url }}" alt="Stamp Collection" loading="lazy">
+          <span>Stamp Collection</span>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a class="project-site" href="https://github.com/NadimGhaznavi/kb/wiki">
+          <img src="{{ '/images/knowledge-base.png' | relative_url }}" alt="Personal Knowlege Base" loading="lazy">
+          <span>Personal Knowlege Base</span>
+        </a>
+      </td>
+      <td>
+        <a class="project-site" href="https://github.com/NadimGhaznavi">
+          <img src="{{ '/images/github.png' | relative_url }}" alt="Nadim on GitHub" loading="lazy">
+          <span>Nadim on GitHub</span>
+        </a>
+      </td>
+      <td>
+        <a class="project-site" href="https://ai.osoyalce.com/pages/ai-snake-game.html">
+          <img src="{{ '/images/snake-lab-server.png' | relative_url }}" alt="AI Snake Game" loading="lazy">
+          <span>AI Snake Game</span>
+        </a>
+      </td>
+      <td>
+        <a class="project-site" href="https://ai.osoyalce.com/pages/flappy-bird.html">
+          <img src="{{ '/images/flappy-bird.png' | relative_url }}" alt="AI Flappy Bird Game" loading="lazy">
+          <span>AI Flappy Bird Game</span>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a class="project-site" href="https://corinna.ghaznavi.org">
+          <img src="{{ '/images/corinna.png' | relative_url }}" alt="Corinna's Website" loading="lazy">
+          <span>Corinna's Website</span>
+        </a>
+      </td>
+      <td>
+        <a class="project-site" href="https://www.linkedin.com/in/nadimghaznavi/">
+          <img src="{{ '/images/linkedin.png' | relative_url }}" alt="Nadim on LinkedIn" loading="lazy">
+          <span>Nadim on LinkedIn</span>
+        </a>
+      </td>
+      <td>
+        <a class="project-site" href="https://nadim-daniel.ghaznavi.org/">
+          <img src="{{ '/images/resume.png' | relative_url }}" alt="Nadim's Resume" loading="lazy">
+          <span>Nadim's Resume</span>
+        </a>
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
