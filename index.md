@@ -17,6 +17,7 @@ author_profile: true
           <img src="{{ '/images/bmdynip.png' | relative_url }}" alt="BMDynIP logo" loading="lazy">
           <span>BMDynIP</span>
         </a>
+        <div><i>Dynamic DNS</i></div>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/bmdynip">GitHub Repo</a></div>
       </td>
       <td>
