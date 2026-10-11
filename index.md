@@ -18,10 +18,10 @@ author_profile: true
           <img src="{{ '/images/bmdynip.png' | relative_url }}" alt="BMDynIP logo" loading="lazy">
           <span>BMDynIP</span>
         </a>
-        <div><i>Dynamic DNS</i></div>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/bmdynip">GitHub Repo</a></div>
       </td>
       <td>
+        <div><b><i>GeoIP Database</i></b></div>
         <a class="project-site" href="https://bmgeoip.osoyalce.com">
           <img src="{{ '/images/bmgeoip.png' | relative_url }}" alt="BMGeoIP logo" loading="lazy">
           <span>BMGeoIP</span>
@@ -29,6 +29,7 @@ author_profile: true
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/bmgeoip">GitHub Repo</a></div>
       </td>
       <td>
+        <div><b><i>Media Organizer</i></b></div>
         <a class="project-site" href="https://r3el.osoyalce.com">
           <img src="{{ '/images/r3el.png' | relative_url }}" alt="R3el logo" loading="lazy">
           <span>R3el</span>
@@ -36,6 +37,7 @@ author_profile: true
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/r3el">GitHub Repo</a></div>
       </td>
       <td>
+        <div><b><i>Live Ax3l Data</i></b></div>
         <a class="project-site" href="https://snakeweb.osoyalce.com">
           <img src="{{ '/images/ax3l-live.png' | relative_url }}" alt="Ax3l Live logo" loading="lazy">
           <span>Ax3l Live</span>
@@ -45,6 +47,7 @@ author_profile: true
     </tr>
     <tr>
       <td>
+        <div><b><i>Local LLM Experiment</i></b></div>
         <a class="project-site" href="https://ax3l.osoyalce.com">
           <img src="{{ '/images/ax3l.png' | relative_url }}" alt="Ax3l logo" loading="lazy">
           <span>Ax3l</span>
@@ -52,6 +55,7 @@ author_profile: true
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/ax3l">GitHub Repo</a></div>
       </td>
       <td>
+        <div><b><i>Simulation Server</i></b></div>
         <a class="project-site" href="https://snakelabserver.osoyalce.com">
           <img src="{{ '/images/snake-lab-server.png' | relative_url }}" alt="Snake Lab Server logo" loading="lazy">
           <span>Snake Lab Server</span>
@@ -59,6 +63,7 @@ author_profile: true
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/snake-lab">GitHub Repo</a></div>
       </td>
       <td>
+        <div><b><i>Certificate Authority</i></b></div>
         <a class="project-site" href="https://bmca.osoyalce.com">
           <img src="{{ '/images/bmca.png' | relative_url }}" alt="BMCA logo" loading="lazy">
           <span>BMCA</span>
@@ -66,6 +71,7 @@ author_profile: true
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/bmca">GitHub Repo</a></div>
       </td>
       <td>
+        <div><b><i>AI RL Sandbox</i></b></div>
         <a class="project-site" href="https://ai-hydra.readthedocs.io/en/latest/">
           <img src="{{ '/images/ai-hydra.png' | relative_url }}" alt="AI Hydra logo" loading="lazy">
           <span>AI Hydra</span>
@@ -76,6 +82,7 @@ author_profile: true
     </tr>
     <tr>
       <td>
+        <div><b><i>AI RL Sandbox</i></b></div>
         <a class="project-site" href="https://snakelab.osoyalce.com/">
           <img src="{{ '/images/ai-snake-lab.png' | relative_url }}" alt="AI Snake Lab logo" loading="lazy">
           <span>AI Snake Lab</span>
@@ -84,6 +91,7 @@ author_profile: true
         <div><a class="project-source" href="https://pypi.org/project/ai_snake_lab/">PyPI Package</a></div>
       </td>
       <td>
+        <div><b><i>Systemctl Wrapper</i></b></div>
         <a class="project-site" href="https://systemctl.osoyalce.com/">
           <img src="{{ '/images/systemctl.png' | relative_url }}" alt="SystemCtl logo" loading="lazy">
           <span>SystemCtl</span>
@@ -92,9 +100,10 @@ author_profile: true
         <div><a class="project-source" href="https://pypi.org/project/systemctl/">PyPI Package</a></div>
       </td>
       <td>
+        <div><b><i>Delphi POC</i></b></div>
         <a class="project-site" href="https://delphi.osoyalce.com/">
           <img src="{{ '/images/delphi.png' | relative_url }}" alt="Delphi POC logo" loading="lazy">
-          <span>Delphi POC</span>
+          <span>Addressbook</span>
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/systemctl">GitHub Repo</a></div>
       </td>
