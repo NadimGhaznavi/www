@@ -13,6 +13,7 @@ author_profile: true
   <tbody>
     <tr>
       <td>
+        <div><b><i>Dynamic DNS</i></b></div>
         <a class="project-site" href="https://bmdynip.osoyalce.com">
           <img src="{{ '/images/bmdynip.png' | relative_url }}" alt="BMDynIP logo" loading="lazy">
           <span>BMDynIP</span>
