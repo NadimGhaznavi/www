@@ -13,6 +13,14 @@ author_profile: true
   <tbody>
     <tr>
       <td>
+        <div><b><i>Disk Replication</i></b></div>
+        <a class="project-site" href="https://diskha.osoyalce.com">
+          <img src="{{ '/images/diskha.png' | relative_url }}" alt="DiskHA logo" loading="lazy">
+          <span>DiskHA</span>
+        </a>
+        <div><a class="project-source" href="https://github.com/NadimGhaznavi/disk-ha">GitHub Repo</a></div>
+      </td>
+      <td>
         <div><b><i>Dynamic DNS</i></b></div>
         <a class="project-site" href="https://bmdynip.osoyalce.com">
           <img src="{{ '/images/bmdynip.png' | relative_url }}" alt="BMDynIP logo" loading="lazy">
@@ -36,6 +44,8 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/r3el">GitHub Repo</a></div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div><b><i>Live Ax3l Data</i></b></div>
         <a class="project-site" href="https://snakeweb.osoyalce.com">
@@ -44,8 +54,6 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/snake-web-code">GitHub Repo</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <div><b><i>Local LLM Experiment</i></b></div>
         <a class="project-site" href="https://ax3l.osoyalce.com">
@@ -70,6 +78,8 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/bmca">GitHub Repo</a></div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div><b><i>AI RL Sandbox</i></b></div>
         <a class="project-site" href="https://ai-hydra.readthedocs.io/en/latest/">
@@ -79,8 +89,6 @@ author_profile: true
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/ai_hydra">GitHub Repo</a></div>
         <div><a class="project-source" href="https://pypi.org/project/ai-hydra/">PyPI Package</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <div><b><i>AI RL Sandbox</i></b></div>
         <a class="project-site" href="https://snakelab.osoyalce.com/">
@@ -107,7 +115,6 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/systemctl">GitHub Repo</a></div>
       </td>
-      <td></td>
     </tr>
   </tbody>
 </table>
