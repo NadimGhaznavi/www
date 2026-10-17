@@ -13,6 +13,14 @@ author_profile: true
   <tbody>
     <tr>
       <td>
+        <div><b><i>Website Analytics</i></b></div>
+        <a class="project-site" href="https://mycount.osoyalce.com">
+          <img src="{{ '/images/mycount.png' | relative_url }}" alt="MyCount logo" loading="lazy">
+          <span>MyCount</span>
+        </a>
+        <div><a class="project-source" href="https://github.com/NadimGhaznavi/mycount">GitHub Repo</a></div>
+      </td>
+      <td>
         <div><b><i>Disk Replication</i></b></div>
         <a class="project-site" href="https://diskha.osoyalce.com">
           <img src="{{ '/images/diskha.png' | relative_url }}" alt="DiskHA logo" loading="lazy">
@@ -36,6 +44,8 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/bmgeoip">GitHub Repo</a></div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div><b><i>Media Organizer</i></b></div>
         <a class="project-site" href="https://r3el.osoyalce.com">
@@ -44,8 +54,6 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/r3el">GitHub Repo</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <div><b><i>Live Ax3l Data</i></b></div>
         <a class="project-site" href="https://snakeweb.osoyalce.com">
@@ -70,6 +78,8 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/snake-lab">GitHub Repo</a></div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div><b><i>Certificate Authority</i></b></div>
         <a class="project-site" href="https://bmca.osoyalce.com">
@@ -78,8 +88,6 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/bmca">GitHub Repo</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <div><b><i>AI RL Sandbox</i></b></div>
         <a class="project-site" href="https://ai-hydra.readthedocs.io/en/latest/">
@@ -107,6 +115,8 @@ author_profile: true
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/systemctl">GitHub Repo</a></div>
         <div><a class="project-source" href="https://pypi.org/project/systemctl/">PyPI Package</a></div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div><b><i>Delphi POC</i></b></div>
         <a class="project-site" href="https://delphi.osoyalce.com/">
@@ -115,6 +125,9 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/systemctl">GitHub Repo</a></div>
       </td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
