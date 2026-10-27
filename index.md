@@ -13,6 +13,14 @@ author_profile: true
   <tbody>
     <tr>
       <td>
+        <div><b><i>AI Dev Skillset</i></b></div>
+        <a class="project-site" href="https://bmforge.osoyalce.com">
+          <img src="{{ '/images/bmforge.png' | relative_url }}" alt="BMForge logo" loading="lazy">
+          <span>BMForge</span>
+        </a>
+        <div><a class="project-source" href="https://github.com/NadimGhaznavi/bmforge">GitHub Repo</a></div>
+      </td>
+      <td>
         <div><b><i>Website Analytics</i></b></div>
         <a class="project-site" href="https://mycount.osoyalce.com">
           <img src="{{ '/images/mycount.png' | relative_url }}" alt="MyCount logo" loading="lazy">
@@ -36,6 +44,8 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/bmdynip">GitHub Repo</a></div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div><b><i>GeoIP Database</i></b></div>
         <a class="project-site" href="https://bmgeoip.osoyalce.com">
@@ -44,8 +54,6 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/bmgeoip">GitHub Repo</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <div><b><i>Media Organizer</i></b></div>
         <a class="project-site" href="https://r3el.osoyalce.com">
@@ -70,6 +78,8 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/ax3l">GitHub Repo</a></div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div><b><i>Simulation Server</i></b></div>
         <a class="project-site" href="https://snakelabserver.osoyalce.com">
@@ -78,8 +88,6 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/snake-lab">GitHub Repo</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <div><b><i>Certificate Authority</i></b></div>
         <a class="project-site" href="https://bmca.osoyalce.com">
@@ -106,6 +114,8 @@ author_profile: true
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/ai_snake_lab">GitHub Repo</a></div>
         <div><a class="project-source" href="https://pypi.org/project/ai_snake_lab/">PyPI Package</a></div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div><b><i>Systemctl Wrapper</i></b></div>
         <a class="project-site" href="https://systemctl.osoyalce.com/">
@@ -115,8 +125,6 @@ author_profile: true
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/systemctl">GitHub Repo</a></div>
         <div><a class="project-source" href="https://pypi.org/project/systemctl/">PyPI Package</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <div><b><i>Delphi POC</i></b></div>
         <a class="project-site" href="https://delphi.osoyalce.com/">
@@ -125,7 +133,6 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/systemctl">GitHub Repo</a></div>
       </td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
