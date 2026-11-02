@@ -44,8 +44,6 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/disk-ha">GitHub Repo</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <div><b><i>Dynamic DNS</i></b></div>
         <a class="project-site" href="https://bmdynip.osoyalce.com">
@@ -54,6 +52,8 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/bmdynip">GitHub Repo</a></div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div><b><i>GeoIP Database</i></b></div>
         <a class="project-site" href="https://bmgeoip.osoyalce.com">
@@ -78,8 +78,6 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/snake-web-code">GitHub Repo</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <div><b><i>Local LLM Experiment</i></b></div>
         <a class="project-site" href="https://ax3l.osoyalce.com">
@@ -96,6 +94,8 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/snake-lab">GitHub Repo</a></div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div><b><i>Certificate Authority</i></b></div>
         <a class="project-site" href="https://bmca.osoyalce.com">
@@ -113,8 +113,6 @@ author_profile: true
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/ai_hydra">GitHub Repo</a></div>
         <div><a class="project-source" href="https://pypi.org/project/ai-hydra/">PyPI Package</a></div>
       </td>
-    </tr>
-    <tr>
       <td>
         <div><b><i>AI RL Sandbox</i></b></div>
         <a class="project-site" href="https://snakelab.osoyalce.com/">
@@ -141,7 +139,6 @@ author_profile: true
         </a>
         <div><a class="project-source" href="https://github.com/NadimGhaznavi/systemctl">GitHub Repo</a></div>
       </td>
-      <td></td>
     </tr>
   </tbody>
 </table>
@@ -175,14 +172,14 @@ author_profile: true
           <span>Stamp Collection</span>
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a class="project-site" href="https://github.com/NadimGhaznavi/kb/wiki">
           <img src="{{ '/images/knowledge-base.png' | relative_url }}" alt="Personal Knowlege Base" loading="lazy">
           <span>Personal Knowlege Base</span>
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a class="project-site" href="https://github.com/NadimGhaznavi">
           <img src="{{ '/images/github.png' | relative_url }}" alt="Nadim on GitHub" loading="lazy">
@@ -201,8 +198,6 @@ author_profile: true
           <span>AI Flappy Bird Game</span>
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a class="project-site" href="https://corinna.ghaznavi.org">
           <img src="{{ '/images/corinna.png' | relative_url }}" alt="Corinna's Website" loading="lazy">
@@ -215,12 +210,17 @@ author_profile: true
           <span>Nadim on LinkedIn</span>
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a class="project-site" href="https://nadim-daniel.ghaznavi.org/">
           <img src="{{ '/images/resume.png' | relative_url }}" alt="Nadim's Resume" loading="lazy">
           <span>Nadim's Resume</span>
         </a>
       </td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
