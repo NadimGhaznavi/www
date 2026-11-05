@@ -132,7 +132,7 @@ author_profile: true
         <div><a class="project-source" href="https://pypi.org/project/systemctl/">PyPI Package</a></div>
       </td>
       <td>
-        <div><b><i>Delphi POC</i></b></div>
+        <div><b><i>Delphi Example App</i></b></div>
         <a class="project-site" href="https://delphi.osoyalce.com/">
           <img src="{{ '/images/delphi.png' | relative_url }}" alt="Delphi POC logo" loading="lazy">
           <span>Addressbook</span>
