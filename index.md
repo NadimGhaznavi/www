@@ -13,7 +13,7 @@ author_profile: true
   <tbody>
     <tr>
       <td>
-        <div><b><i>Llama Server</i></b></div>
+        <div><b><i>Self-Hosted LLM Service</i></b></div>
         <a class="project-site" href="https://llamasrv.osoyalce.com/">
           <img src="{{ '/images/llamasrv.png' | relative_url }}" alt="LlamaSrv logo" loading="lazy">
           <span>LlamaSrv</span>
